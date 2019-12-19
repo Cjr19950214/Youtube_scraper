@@ -5,7 +5,8 @@
 
 ## What is comment thread?
 example:<br />
-user1: your video is nice! -----------------(comment)  ...<br />
-&emsp; user2: yes~~ O(∩_∩)O   -----------------(replies)     →   comment thread  <br />      
-&emsp; user3: thank you~ balab~  --------------(replies)  ...
+user1: your video is nice! -----------------(comment)
+<br />
+&emsp; user2: yes~~ O(∩_∩)O   -----------------(replies)              →→  comment thread    
+&emsp; user3: thank you~ balab~  --------------(replies)  
 
